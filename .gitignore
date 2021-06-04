@@ -1,0 +1,15 @@
+# Django #
+*.pyc
+db.sqlite3
+django_backend/tako_env
+__pycache__
+
+
+# Visual Studio Code # 
+.idea/
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
